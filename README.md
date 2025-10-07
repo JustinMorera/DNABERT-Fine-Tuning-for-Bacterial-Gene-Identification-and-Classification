@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ## Usage
 ### Setup .env
-- Create a file named `.env` in root project directory (ex.: `BACTERIAL-GENE-IDENTIFICATION-ML-MODEL/`) and add the following:
+- Create a file named `.env` in root project directory (ex.: `DNABERT-Fine-Tuning-for-Bacterial-Gene-Identification-and-Classification/`) and add the following:
 ```
 NCBI_EMAIL="example@email.com"
 NCBI_API_KEY="YourNCBIEntrezAPIKey"
